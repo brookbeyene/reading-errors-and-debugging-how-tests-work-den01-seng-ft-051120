@@ -3,3 +3,4 @@
 first_number = 32
 second_number = 13
 
+sum = first_number + second_number
