@@ -1,3 +1,3 @@
 # Add your variables here
 
-fir
+first_number = 32
